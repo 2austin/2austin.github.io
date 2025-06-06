@@ -9,11 +9,11 @@ My goal is to gradually build a collection of notes, mind maps, and presentation
 
 ## Why I'm Doing This
 
-- Right now, I often feel overwhelmed by how much there is to learn. \
-- By building a list of information I've gathered and verified, I can stop wasting time. \
-- This space will serve as both a record of my progress and a grounding guide for the future. \
-- I am tired of being barraged by every media front to be conditioned that AI is superior to us. \
-- I need to prove to myself that I have not become a robot myself. \
+- Right now, I often feel overwhelmed by how much there is to learn. 
+- By building a list of information I've gathered and verified, I can stop wasting time. 
+- This space will serve as both a record of my progress and a grounding guide for the future. 
+- I am tired of being barraged by every media front to be conditioned that AI is superior to us. 
+- I need to prove to myself that I have not become a robot myself. 
 
 ## What's Inside (Eventually)
 
