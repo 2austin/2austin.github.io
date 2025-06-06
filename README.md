@@ -1,6 +1,8 @@
 # My CS Journey
 
-Welcome to my learning station.
+Welcome to my learning station. \
+This is **NOT** about perfection, or even polished edges. \
+This is about building something I know, trust, and understand.
 
 ## Purpose
 
